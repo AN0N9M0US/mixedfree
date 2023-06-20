@@ -1,16 +1,17 @@
 # mixedfree
 
-COMMAND 👇👇👇
+COMMAND 👇👇👇<br>
+
 pkg update && pkg upgrade <br>
-pkg install python
-pkg install git
-pip install requests
-pip install mechanize
-pip install futures
-pip install urllib3
-pip install rich
-pip install bs4
-rm -rf  mixedfree.py
-git clone https://github.com/AN0N9M0US/mixedfree.git
-cd mixedfree.py
-python mixedfree.py
+pkg install python<br>
+pkg install git<br>
+pip install requests<br>
+pip install mechanize<br>
+pip install futures<br>
+pip install urllib3<br>
+pip install rich<br>
+pip install bs4<br>
+rm -rf  mixedfree.py<br>
+git clone https://github.com/AN0N9M0US/mixedfree.git<br>
+cd mixedfree.py<br>
+python mixedfree.py<br>
