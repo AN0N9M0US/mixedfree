@@ -1,5 +1,5 @@
 # mixedfree
-# Run And Enjoy Guys
+
 COMMAND 👇👇👇
 pkg update && pkg upgrade
 pkg install python
